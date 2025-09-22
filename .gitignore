@@ -1,5 +1,12 @@
-!data/processed/biblioteca_enriquecida.csv
+# Ignorar arquivos de configuração do PyCharm
 .idea/
+
+# Ignorar arquivos temporários/intermediários
 data/interim/
+
+# Ignorar todos os CSVs processados...
 data/processed/*.csv
+
+# ...mas manter a versão final da biblioteca enriquecida
+!data/processed/biblioteca_enriquecida.csv
 
