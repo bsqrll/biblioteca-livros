@@ -1,0 +1,4 @@
+.idea/
+data/interim/
+data/processed/*.csv
+
